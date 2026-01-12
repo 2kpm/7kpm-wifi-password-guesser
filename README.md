@@ -86,15 +86,6 @@ Cybersecurity learner • Linux • Python
 2026 Edition
 
 
----
-
-### ✅ What this README includes
-
-1. **Title & disclaimer** → makes it clear it’s safe  
-2. **Project description** → what it does and why  
-3. **Purpose / learning goals** → shows educational intent  
-4. **Features** → what the program actually does  
-5. **Tech stack** → Python, terminal, nmcli  
 6. **Intended environment** → prevents misuse  
 7. **Example usage** → shows how to run it  
 8. **Disclaimer / ethics** → legal safety  
